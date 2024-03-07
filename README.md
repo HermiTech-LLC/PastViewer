@@ -2,6 +2,7 @@
 
 ## Overview
 "PastViewing.ipynb" is an educational Jupyter notebook that explores the interplay between light, distance, and time. It aims to demonstrate how the finite speed of light allows us to view cosmic events from the past. The notebook uniquely combines theoretical knowledge with practical calculations and interactive visualizations.
+![jpg](https://github.com/HermiTech-LLC/PastViewer/blob/main/IMG_7821.jpeg)
 
 ## Contents
 - **Introduction**: Conceptual overview on the relationship between light's travel time and our perception of past events in the universe.

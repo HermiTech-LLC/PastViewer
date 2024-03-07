@@ -11,6 +11,7 @@
 - **Visualizations and Interactivity**: Interactive graphs and plots illustrating key concepts, using Matplotlib and IPython widgets.
 - **Practical Applications**: Real-world examples and case studies in astronomy (if included).
 
+[UI]
 ## Getting Started
 1. **Installation**: Ensure Jupyter Notebook or Jupyter Lab is installed.
 2. **Dependencies**: The notebook requires the following Python libraries:
